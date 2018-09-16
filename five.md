@@ -12,4 +12,4 @@
 （＊１）引用：
 
 [前のページへ](https://16-2505-002-9.github.io/pickup/four)  
-[トップページへ](https://16-2505-002-9.github.io/pickup/config)
+[トップページへ](https://16-2505-002-9.github.io/pickup/)
