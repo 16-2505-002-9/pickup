@@ -7,5 +7,4 @@
 >夜であっても時間を気にせずに利用する事が出来ます。
 
 
-次のページへ  
-http://U50106.github.io/pickup/
+[次のページへ](http://U50106.github.io/pickup/)
