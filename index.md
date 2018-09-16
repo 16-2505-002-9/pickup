@@ -1,6 +1,6 @@
 ここでは○○市○○地区における高齢者の交通手段に対して、仮想通貨を用いた解決策の提案を行っている。<br><br>
 それぞれのページに解決策に対しての説明が乗っているので是非ご覧いただきたい。<br>
-[*1.仮想通貨の仕組み](https:/16-2505-002-9.github.io/pickup/1)<br>
-[2.どのような人が利用するのか](https://16-2505-002-9.github.io/pickup/2)<br>
-[3.今起きている問題](https://16-2505-002-9.github.io/pickup/four)<br>
-[4.他者との違い](https://16-2505-002-9.github.io/pickup/five)
+[*1.仮想通貨の仕組み*](https:/16-2505-002-9.github.io/pickup/1)<br>
+[*2.どのような人が利用するのか*](https://16-2505-002-9.github.io/pickup/2)<br>
+[*3.今起きている問題*](https://16-2505-002-9.github.io/pickup/four)<br>
+[*4.他者との違い*](https://16-2505-002-9.github.io/pickup/five)
