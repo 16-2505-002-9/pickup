@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-
 [(参考)2 地域公共交通の現状 -国土交通省　北陸信越運送局](http://wwwtb.mlit.go.jp/kinki/kansai/program/02.pdf)
+<br>
 
 [トップページへ](https://16-2505-002-9.github.io/pickup/)        [次のページへ](./2.md)
