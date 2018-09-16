@@ -12,7 +12,7 @@
 時間を気にせずに利用する事が出来ます。   
 また、お金を使わなくてもよい為、金銭的な心配をする必要はありません。      
 
-（＊１）引用：http://www.houko.com/00/01/S35/105.HTM#s6.1
+（＊３）参考：http://www.houko.com/00/01/S35/105.HTM#s6.1
 
 [前のページへ](https://16-2505-002-9.github.io/pickup/four)  
 [トップページへ](https://16-2505-002-9.github.io/pickup/)
