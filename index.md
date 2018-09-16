@@ -3,4 +3,4 @@
 [*1.今起きている問題*](https://16-2505-002-9.github.io/pickup/four)<br>
 [*2.どのような人が利用するのか*](https://16-2505-002-9.github.io/pickup/2)<br>
 [*3.仮想通貨の仕組み*](https://16-2505-002-9.github.io/pickup/1)<br>
-[*4.他者との違い*](https://16-2505-002-9.github.io/pickup/five)
+[*4.他社との違いと対象者の利点*](https://16-2505-002-9.github.io/pickup/five)
